@@ -35,6 +35,7 @@ if d > 0 {
 
 //2.Даны катеты прямоугольного треугольника. Найти площадь, периметр и гипотенузу треугольника.
 
+
 let aCat: Double = 3
 let bCat: Double = 4
 
@@ -57,3 +58,5 @@ deposit = deposit + (deposit * procent / 100)
 deposit = deposit + (deposit * procent / 100)
 
 print("Через пять лет сума вклада будет \(deposit)")
+
+//HomeWork Complate
